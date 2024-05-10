@@ -2,6 +2,7 @@
 Manually Testing a Web Application
 ----------------------------------
 This repository contains a project during my manual testing training. The project was completed using a combination of manual testing techniques and test management tools.
+
 Includes:-
 1. Test Plan
 2. Test Cases
